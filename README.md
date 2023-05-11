@@ -20,6 +20,12 @@ This is an assignment from Codecademy and will fulfill the following objectives:
 - Deploy your site to the web using GitHub Pages
 - OPTIONAL: Buy a custom domain name and have it point to your GitHub Pages website
 
+## Technoligies used
+- HTML
+- CSS
+- Javascript
+- Git
+
 ## Timeline
 I am starting this project May 5th, 2023 and plan to finish it in 2 weeks for a completion date of May 19th, 2023.# portfolio_website
 
